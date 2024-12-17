@@ -32,7 +32,7 @@ Book ||--|{ Borrow : includes
 ## Startup
 1. Clone the repository:
 	```
-	git clone https://github.com/AbdalrahmanHafez/express-book-library-template
+	git clone https://github.com/MohamedEmadSakr/Library-Management-System
 	cd project-folder
 	```
 2. Install dependencies:
